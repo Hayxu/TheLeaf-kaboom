@@ -1,4 +1,3 @@
-# TheLeaf Kaboom
 Left Click to kill a TheLeaf
 Right Click to randomly spawn a TheLeaf
 Middle Click to draw
