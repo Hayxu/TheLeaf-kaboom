@@ -36,7 +36,11 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"fart","path":"sounds/fart/fart.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Vineboom","path":"sounds/Vineboom/Vineboom.yy",},},
     {"id":{"name":"Kaboom","path":"objects/Kaboom/Kaboom.yy",},},
+    {"id":{"name":"Yedesna","path":"objects/Yedesna/Yedesna.yy",},},
     {"id":{"name":"explosion","path":"sprites/explosion/explosion.yy",},},
     {"id":{"name":"BG","path":"sprites/BG/BG.yy",},},
     {"id":{"name":"TheLeaf","path":"objects/TheLeaf/TheLeaf.yy",},},
