@@ -1,6 +1,2 @@
-Left Click to kill a TheLeaf
-Right Click to randomly spawn a TheLeaf
-Middle Click to draw
-Space to kill every TheLeaves (LOUD)
-Enter to spawn a bunch of TheLeaves
-Hold Y to summon a bunch of Yedesnas
+Shoot down TheLeaf until you reach a score of 300
+This is the last edition of this gag, I'm done working on it
